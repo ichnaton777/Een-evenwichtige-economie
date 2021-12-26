@@ -1,0 +1,9 @@
+[book]
+title   = "Een evenwichtige economie"
+author = "Barry Voeten"
+description = "Een ecomomisch systeem ontworpen om ecologisch in evenwicht te komen"
+language = "nl"
+multilingual = false
+src = "src"
+
+
